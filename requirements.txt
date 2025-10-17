@@ -1,0 +1,21 @@
+# Core AI/ML
+tensorflow>=2.12.0
+scikit-learn>=1.2.0
+spacy>=3.5.0
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web frameworks
+streamlit>=1.22.0
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Additional utilities
+pillow>=9.5.0
+gunicorn>=20.1.0
