@@ -109,7 +109,7 @@ Thumbs.db
 
 # TensorFlow/Keras
 # Model files (don't commit large model files)
-*.h5
+
 *.hdf5
 *.keras
 *.pb
