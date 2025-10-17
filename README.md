@@ -14,6 +14,7 @@ This repository contains small machine learning demos, scripts, models, and note
 ## Models Overview
 
 ### MNIST CNN Model (`mnist_cnn_model.h5`)
+acess it here https://machine-learning-tools-cqetrqnappj9uqsxrlabahf.streamlit.app/
 - **Type**: Convolutional Neural Network (CNN)
 - **Purpose**: Handwritten digit recognition (0-9)
 - **Architecture**:
